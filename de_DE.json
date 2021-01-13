@@ -1,8 +1,0 @@
-{
-  "name": "Deutsch",
-  "localeCode": "de_DE",
-  "values": {
-    "lang.message.updated": "§bLanguage §8» §aDu hast deine §eSprache §aauf #0# gesetzt.",
-    "lang.message.reload": "§bCynixMC §8» §aDu hast erfolgreich die §9Language-Keys§a neugeladen."
-  }
-}
