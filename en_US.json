@@ -1,0 +1,8 @@
+{
+  "name": "English",
+  "localeCode": "en_US",
+  "values": {
+    "lang.message.updated": "§bLanguage §8» §aYou changed your §eLanguage§a to #0#.",
+    "lang.message.reload": "§bCynixMC §8» §aYou reloaded the Language-keys!"
+  }
+}
