@@ -1,2 +1,2 @@
-https://github.com/CynixMC-NET/Language# Language
+# Language
 The Language API for CynixMC.NET
